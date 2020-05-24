@@ -47,7 +47,7 @@ namespace Siuntu_Grupes
             comboBox2.DataSource = busena;
             comboBox1.SelectedIndex = 7;
             comboBox2.SelectedIndex = 2;
-            dateTimePicker1.Value=DateTime.Parse("2020-04-01");
+            dateTimePicker1.Value=DateTime.Parse("2020-05-01");
 
         }
 
